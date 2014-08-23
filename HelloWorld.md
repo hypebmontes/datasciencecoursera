@@ -8,4 +8,4 @@ the sharer the burden of protecting the data.
 
 Free the data is a wisdom of the new world.
 
-- git push
+$ git push origin master
