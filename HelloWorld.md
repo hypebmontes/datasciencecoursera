@@ -7,5 +7,5 @@ Sharing data is akin to sharing of knowledge or power. Sharing empowers the reci
 the sharer the burden of protecting the data. 
 
 Free the data is a wisdom of the new world.
+
 - git push
-- 
